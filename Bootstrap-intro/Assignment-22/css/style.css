@@ -1,0 +1,37 @@
+
+body
+{
+	margin: 0;
+	padding:0;	
+}
+.bd-callout
+{	padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: var(--bd-callout-bg, var(--bs-gray-100));
+    border-left: 0.25rem solid var(--bd-callout-border, var(--bs-gray-300));
+}
+.bd-callout-info
+{
+	--bd-callout-bg: rgba(var(--bs-info-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-info-rgb), .5);
+}
+h2{
+	background-color: aquamarine;
+	color:blueviolet;
+}
+.container
+{
+	
+}
+.row
+{
+	
+}
+.col
+{
+	background-color: #F1E9FE;
+  	padding: 20px;
+  	margin: 0;
+	border: 1px solid #c09ff5; 
+}
